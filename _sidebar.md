@@ -8,6 +8,8 @@
 
 * **💕 Dating**
   * [📋 Überblick](dating/)
+  * [Grundlagen](dating/grundlagen.md)
+  * [Flirten](dating/flirten.md)
   * [📱 Online Dating](dating/online-dating.md)
 
 * **🌱 Persönliche Entwicklung**
